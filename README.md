@@ -1,2 +1,1 @@
-# marketplace-sistemas
-CheckPoint Business Systems
+Pasta destinada ao levantamento de requisitos do sistema marketplace.
